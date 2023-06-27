@@ -26,3 +26,6 @@ class veiculo
 https://www.scimagojr.com/journalsearch.php?q=21100898028&tip=sid&clean=0
 https://www.scimagojr.com/journalsearch.php?q=5300152203&tip=sid&clean=0
 https://www.scimagojr.com/journalsearch.php?q=21100898825&tip=sid&clean=0
+
+//https://ucsmedu-my.sharepoint.com/:w:/g/personal/ricardo_charahua_ucsm_edu_pe/Ec5R86sfySJKj7OxeigXYk4B0BJzULWaAEOhVxE9LONOmw?e=zDMqRf
+
